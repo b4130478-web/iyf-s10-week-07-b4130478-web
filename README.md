@@ -1,4 +1,4 @@
-# https=://GitHub.com/b4130478-web
+# https://GitHub.com/b4130478-web/-week-07
 To do list
 #week {07} : projec{to do list}
 ##author
